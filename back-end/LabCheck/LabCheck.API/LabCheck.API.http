@@ -1,0 +1,6 @@
+@LabCheck.API_HostAddress = http://localhost:5109
+
+GET {{LabCheck.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
